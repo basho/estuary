@@ -1,7 +1,7 @@
 // Framework works test
 // Useing the Mocha Framework: http://visionmedia.github.io/mocha/
 
-var should = require('../')
+var should = require('should')
   , assert = require('assert');
 
 
