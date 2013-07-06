@@ -1,0 +1,33 @@
+{
+  "name": "estuary",
+  "version": "0.0.1",
+  "description": "Estuary is a RESTful API that consolidates several other APIs for converged access from clients.",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "restify": "~2.6.0",
+    "mocha": "1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Adron/estuary.git"
+  },
+  "keywords": [
+    "converged",
+    "API"
+  ],
+  "author": "Adron Hall",
+  "license": "Apache 2.0",
+  "readmeFilename": "README.md",
+  "gitHead": "45da12cc1cd7c1cfe5061eade9458df385b75e32",
+  "bugs": {
+    "url": "https://github.com/Adron/estuary/issues"
+  }
+}
