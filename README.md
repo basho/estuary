@@ -16,8 +16,5 @@ wrapped up version of the APIs via a centralized API. Basically an API of APIs. 
 Features:
 ---
 For now, check out the [Issues list on Github](https://github.com/Adron/estuary/issues) and the [Huboard Kanban](http://huboard.com/Adron/estuary/board).
-Libraries:
+More Information:
 ---
- * restify
- * mocha
- * should
