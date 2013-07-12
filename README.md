@@ -1,4 +1,4 @@
-estuary
+Estuary
 ===
 [![Build Status](https://travis-ci.org/Adron/estuary.png)](https://travis-ci.org/Adron/estuary)
 Estuary Definition:
@@ -20,4 +20,4 @@ More Information:
 ---
 For more information and ways you can use or contribute to this project, check out the Issues list and also the [Estuary Project Site](http://adron.github.io/estuary/).
 
--[Adron](https://github.com/Adron) && [@Adron](http://twitter.com/adron)
+-[Adron](https://github.com/Adron) || [@Adron](http://twitter.com/adron)
