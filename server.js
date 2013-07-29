@@ -1,4 +1,6 @@
-var express = require('express');
+var express = require('express'),
+    http = require('http')
+
 var app = express();
 
 var quotes = [
@@ -63,4 +65,9 @@ app.delete('/quote/:id', function(req, res) {
   res.json(true);
 });
 
-app.listen(process.env.PORT || 3412);
+// app.listen(process.env.PORT || 3412);
+app.set('port', process.env.PORT || 3412);
+
+http.createServer(app).listen(app.get('port'), function(){
+  console.log('Server listening on port ' + app.get('port') + '.');
+});

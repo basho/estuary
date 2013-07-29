@@ -11,7 +11,8 @@
     "mocha": "1.11.0",
     "should": "*",
     "octonode": "~0.3.3",
-    "express": "~3.3.4"
+    "express": "~3.3.4",
+    "riak-js": "~0.10.2"
   },
   "devDependencies": {},
   "scripts": {
