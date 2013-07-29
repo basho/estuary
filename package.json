@@ -9,7 +9,9 @@
   "dependencies": {
     "restify": "~2.6.0",
     "mocha": "1.11.0",
-    "should": "*"
+    "should": "*",
+    "octonode": "~0.3.3",
+    "express": "~3.3.4"
   },
   "devDependencies": {},
   "scripts": {
