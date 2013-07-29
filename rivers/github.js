@@ -1,3 +1,4 @@
+// Code using https://github.com/pksunkara/octonode
 var github = require('octonode');
 var client = github.client('a4c13f0b9abc0c89a5547caa255f015e46fef40e');
 var ghme   = client.me();
